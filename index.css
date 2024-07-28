@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    background: black;
+    color: white;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 24px;
+    width: 210px;
+    margin-bottom: 8px;
+}
+
+h5 {
+    margin-top: 0px;
+    padding-top: 0xp;
+    font-weight: 300;
+}
+
+span {
+    color: green;
+}
+
+button {
+    margin-top: 10px;
+    background: green;
+    color: white;
+    border: 0;
+    padding: 10px;
+    border-radius: 3px;
+    height: 30px;
+    font-size: 10px;
+}
+
+p {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background: darkslategray;
+    font-size: 12px;
+    width: 120px;
+    height: 15px;
+    text-align: center;
+    border-radius: 3px;
+    color: green;
+    padding: 3px 0px;
+}
+
+.passdiv {
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
